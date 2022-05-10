@@ -9,7 +9,7 @@ I have worked with: Go, powerBi, MySQL, HTML & CSS💻
 
 I’m currently learning C# and React.js🌱
 
-Feel free to add me on Linkin: https://www.linkedin.com/in/alan-osefia-7746a51b6/
+Feel free to add me on Linkin: https://www.linkedin.com/in/alan-osefia-7746a51b6/ or github
 <!--
 **AlanosefiaCHE/AlanosefiaCHE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
